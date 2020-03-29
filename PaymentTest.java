@@ -4,7 +4,5 @@ public static void main(String[] args)
 {
 
 println("Hellow Wolrd!!");
-println("This is what i forgot");
-
 }
 }
